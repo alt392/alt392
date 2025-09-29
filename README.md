@@ -22,7 +22,7 @@
 - Google Drive/ Docs/ Sheets
 
 ### 📊 Data Science
-- Statisical Methods
+- Statistical Methods
 - Basic Machine Learning (Applied Regression Analysis, Clustering, Classification)
 - Explaratory Data Analysis
 - Data Cleaning
