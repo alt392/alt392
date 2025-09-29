@@ -55,5 +55,5 @@
 **Healthcare AI, Type 1 Diabetes, Data Analytics**
 
 ___
-##### Fun Fact: I have been dancing for 14 years! 💃
+##### Fun Fact: I have been dancing for 16 years! 💃
 
