@@ -31,6 +31,7 @@
 - ANOVA
 
 ## 📋 Projects
+
 ### BIOST Project 1 (https://github.com/alt392/BIOST-Project-1)
 - Looked at Arthristis Data CSV of 10,000 individuals and studiede the effect of a drug
 - **Tech**: R, ggplot2
@@ -39,6 +40,7 @@
 - **Tech**: R, ggplot2
 
 ## 👑 Leadership Experience
+
 **Seventh College Orientation Leader	UCSD | Apr 2021 - Sept 2022**
 
 ●	Led incoming freshmen on zoom calls to inform them of UCSD, classes, and the college experience.
