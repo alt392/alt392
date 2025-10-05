@@ -32,11 +32,11 @@
 
 ## 📋 Projects
 
-### BIOST Project 1 (https://github.com/alt392/BIOST-Project-1)
+### Rheumatoid Arthritis Analysis (https://github.com/alt392/BIOST-Project-1)
 - Analyzed 600 Rheumatoid Arthritis (RA) EHR of patients receiving care at a clinic in Philadelphia.
 - Provided visualization and numerical summaries of variables and drew conclusions on possible trends for measure of disease severity in RA patients.
 - **Tech**: R, ggplot2
-### BIOST Project 2 (https://)
+### Analysis (https://)
 - 
 - **Tech**: R, ggplot2
 
