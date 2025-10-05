@@ -24,7 +24,7 @@
 ### 📊 Data Science
 - Statistical Methods
 - Basic Machine Learning (Applied Regression Analysis, Clustering, Classification)
-- Explaratory Data Analysis
+- Exploratory Data Analysis
 - Data Cleaning
 - Data Wrangling
 - Data Visualization (ggplot2)
@@ -33,7 +33,7 @@
 ## 📋 Projects
 
 ### BIOST Project 1 (https://github.com/alt392/BIOST-Project-1)
-- Looked at Arthristis Data CSV of 10,000 individuals and studiede the effect of a drug
+- Looked at Arthritis Data CSV of 10,000 individuals and studiede the effect of a drug
 - **Tech**: R, ggplot2
 ### BIOST Project 2 (https://)
 - 
