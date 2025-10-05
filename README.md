@@ -5,7 +5,7 @@
 
 📈 **Concentration in Health Data Science**
 
-📚 **Current GPA: 3.91**
+📚 **Current GPA: 4.0**
 
 🔬 **Bachelor's of Science in Human Biology** at Univeristy of California: San Diego (Graduated Sept 2023)
 
@@ -33,7 +33,8 @@
 ## 📋 Projects
 
 ### BIOST Project 1 (https://github.com/alt392/BIOST-Project-1)
-- Looked at Arthritis Data CSV of 10,000 individuals and studiede the effect of a drug
+- Analyzed 600 Rheumatoid Arthritis (RA) EHR of patients receiving care at a clinic in Philadelphia.
+- Provided visualization and numerical summaries of variables and drew conclusions on possible trends for measure of disease severity in RA patients.
 - **Tech**: R, ggplot2
 ### BIOST Project 2 (https://)
 - 
