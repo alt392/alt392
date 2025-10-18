@@ -36,8 +36,9 @@
 - Analyzed 600 Rheumatoid Arthritis (RA) EHR of patients receiving care at a clinic in Philadelphia.
 - Provided visualization and numerical summaries of variables and drew conclusions on possible trends for measure of disease severity in RA patients.
 - **Tech**: R, ggplot2
-### Analysis (https://)
-- 
+### Bone Loss Treatment and Medicare Analysis (https://github.com/alt392/BIOST-Project-2/)
+- Analyzed different treatments for preventing bone loss among postmenopausal women younger than 60 years old.
+- Provided visualizations and summaries on the Medicare Inpatient Hospitals by Provider and Service dataset using bootstrapping and QQ plots.
 - **Tech**: R, ggplot2
 
 ## 👑 Leadership Experience
