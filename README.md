@@ -40,6 +40,10 @@
 - Analyzed different treatments for preventing bone loss among postmenopausal women younger than 60 years old.
 - Provided visualizations and summaries on the Medicare Inpatient Hospitals by Provider and Service dataset using bootstrapping and QQ plots.
 - **Tech**: R, ggplot2
+### Headache Severity Analysis (https://github.com/alt392/BIOST-Project-3/)
+- Analyzed a large randomized controlled trial aimed to determine the impact of the use of acupunture therpay on headaches.
+- Provided visualizations and summaries on headache severity among participants and drew conclusions on treatment significance.
+- **Tech**: R, ggplot2
 
 ## 👑 Leadership Experience
 
