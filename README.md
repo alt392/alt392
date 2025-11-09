@@ -44,7 +44,11 @@
 - Analyzed a large randomized controlled trial aimed to determine the impact of acupuncture therapy on headache severity.
 - Provided visualizations and summaries on headache severity among participants and drew conclusions on treatment significance.
 - **Tech**: R, ggplot2
-
+### Tumor Growth and Intubation Analysis (https://github.com/alt392/BIOST-Project-4/)
+- Performed ANOVA and post-hoc test comparisons on tumor size measurements from an animal xenograft experiment comparing four cancer treatments.
+- Applied linear regression to evaluate the relationship between BMI and ease of tracheal intubations.
+- Provided visulizations, statistical summaries, and data cleaning to support statistical findings.
+- **Tech**: R, ggplot2
 ## 👑 Leadership Experience
 
 **Seventh College Orientation Leader	UCSD | Apr 2021 - Sept 2022**
