@@ -5,7 +5,7 @@
 
 📈 **Concentration in Health Data Science**
 
-📚 **Current GPA: TBD**
+📚 **Current GPA: 4.0**
 
 🔬 **Bachelor's of Science in Human Biology** at Univeristy of California: San Diego (Graduated Sept 2023)
 
